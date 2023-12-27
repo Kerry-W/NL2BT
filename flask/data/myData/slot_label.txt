@@ -1,0 +1,11 @@
+PAD
+UNK
+O
+B-skill
+I-skill
+B-object
+I-object
+B-des
+I-des
+B-dir
+I-dir
